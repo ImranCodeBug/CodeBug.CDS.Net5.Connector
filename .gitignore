@@ -1,0 +1,10 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CodeBug.CDS.Net5.Connector/.vs/CodeBug.CDS.Net5.Connector/v16
+/CodeBug.CDS.Net5.Connector/CodeBug.CDS.Net5.Connector/bin/Debug/net5.0
+/CodeBug.CDS.Net5.Connector/CodeBug.CDS.Net5.Connector/obj
+/CodeBug.CDS.Net5.Connector/CodeBug.CDS.Net5.Connector.Tests/bin/Debug/net5.0
+/CodeBug.CDS.Net5.Connector/CodeBug.CDS.Net5.Connector.Tests/obj
+CodeBug.CDS.Net5.Connector/.vs/CodeBug.CDS.Net5.Connector/DesignTimeBuild/.dtbcache.v2
